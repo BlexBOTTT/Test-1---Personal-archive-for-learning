@@ -13,3 +13,7 @@ Web development
 >descrip here
 link here
 
+>"Basics" to programming (no coding involved)
+January 23/27, 2023 - February 9, 2023
+https://www.youtube.com/watch?v=zOjov-2OZ0E
+(did i learn stuff there? some parts of it, yes.)
