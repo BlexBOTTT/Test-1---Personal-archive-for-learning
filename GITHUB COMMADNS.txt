@@ -1,0 +1,16 @@
+SENDING CODE
+
+git clone " url "
+git status 
+git add .
+git commit -m " your message "
+git push -u origin master
+
+
+RECIEVING CODE
+
+git pull origin master
+
+
+dani crossing HTML-CSS
+MMTUTS ri
